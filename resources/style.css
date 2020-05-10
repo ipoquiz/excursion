@@ -7,16 +7,16 @@ html {
     text-align: center;
 }
 
+.download-link {
+    font-size: 1rem;
+    color: aquamarine; 
+}
+
 /* HEADER */
 header h1 {
     font-size: 3.125rem;
     font-weight: normal;
     color: white;
-}
-
-header .download-link {
-    font-size: 1rem;
-    color: aquamarine; 
 }
 
 /* ABOUT SECTION */
@@ -30,6 +30,11 @@ header .download-link {
     color: grey;
 }
 
+/* COMING SECTION */
+.coming-section h1 {
+    font-weight: 300;
+    font-size: 2.625rem;
+}
 /* FOOTER */
 
 
